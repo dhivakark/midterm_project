@@ -5,7 +5,7 @@ from sklearn import model_selection
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report
 
-data = "input/iris.csv"
+data = "iris_data/iris.csv"
 
 # make sure that the data are obtained (get will also install linked sub-ds!):
 dl.get(data)
