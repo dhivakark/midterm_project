@@ -1,3 +1,6 @@
+'''
+Script to analyze the Iris data using KNN
+'''
 import pandas as pd
 import seaborn as sns
 import datalad.api as dl
