@@ -1,5 +1,5 @@
 [submodule "iris_data"]
 	path = iris_data
-	url = /home/dhivakar/personal/learning/engg/datalad/iris_data
+	url = ../iris_data.git
 	branch = master
 	datalad-id = 0e2ba118-8302-11ea-825f-f875a42a0f40
